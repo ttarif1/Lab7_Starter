@@ -1,1 +1,2 @@
-# Lab 7 - Starter Code
+# Lab 7
+### Tarek Tarif
